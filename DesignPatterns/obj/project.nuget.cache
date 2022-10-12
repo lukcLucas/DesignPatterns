@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fCZVuUx98NInQcGJKF3aVpENC0K51Oo885CJ2ICH+ny+meBVa11YQ7JdFW/8ccw65tMpmr3ZLWuHP1eji1G2pw==",
+  "success": true,
+  "projectFilePath": "/home/lucas/Área de Trabalho/csharp/DesignPatterns/DesignPatterns.csproj",
+  "expectedPackageFiles": [
+    "/home/lucas/.nuget/packages/microsoft.netcore.app/2.2.0/microsoft.netcore.app.2.2.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.netcore.dotnetapphost/2.2.0/microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.2.0/microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.netcore.dotnethostresolver/2.2.0/microsoft.netcore.dotnethostresolver.2.2.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.netcore.platforms/2.2.0/microsoft.netcore.platforms.2.2.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/microsoft.netcore.targets/2.0.0/microsoft.netcore.targets.2.0.0.nupkg.sha512",
+    "/home/lucas/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

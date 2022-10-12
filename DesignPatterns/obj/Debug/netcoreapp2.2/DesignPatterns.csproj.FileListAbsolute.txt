@@ -1,0 +1,13 @@
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.deps.json
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.runtimeconfig.json
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.runtimeconfig.dev.json
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.dll
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/bin/Debug/netcoreapp2.2/DesignPatterns.pdb
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.csproj.AssemblyReference.cache
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.AssemblyInfoInputs.cache
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.AssemblyInfo.cs
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.csproj.CoreCompileInputs.cache
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.dll
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.pdb
+/home/lucas/Área de Trabalho/csharp/DesignPatterns/obj/Debug/netcoreapp2.2/DesignPatterns.genruntimeconfig.cache
